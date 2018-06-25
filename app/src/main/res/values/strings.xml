@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">configexample</string>
+    <string name="show_interstitial">Show Interstitial</string>
+    <string name="show_rewarded_video">Show Rewarded video</string>
+    <string name="show_banner">Show Banner</string>
+    <string name="network_name">Network name:</string>
+</resources>
